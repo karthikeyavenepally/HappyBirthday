@@ -36,17 +36,17 @@ if (localStorage.getItem('musicPlaying') === 'true') {
 // - gif: Animation file to show (optional, use animation-1.gif or animation-2.gif)
 const reasons = [
     {
-        text: "Because you always know how to make me smile! 💖",
+        text: "Because Nuv thappa nak evarleru 💖",
         emoji: "✨",
         gif: "gif1.gif"
     },
     {
-        text: "Because you're the best listener I know! 🌸",
+        text: "Because your smile can make even an ordinary day special! 💖",
         emoji: "💫",
         gif: "gif2.gif"
     },
     {
-        text: "Because your laugh is contagious! ✨",
+        text: "Because Nvu navvithey nak masth happy anpisthadhi! ✨",
         emoji: "🌟",
         gif: "gif1.gif"
     },
@@ -56,11 +56,15 @@ const reasons = [
         gif: "gif2.gif"
     },
     {
-        text: "Because you're simply amazing! Here's to another wonderful year! 🎉",
+        text: "I could look into your eyes until the sun sets, and still wish for a longer day. 💗🌅",
         emoji: "🎊",
         gif: "gif1.gif"
+    },
+    {
+        text: "Ni Innocence Ante Nak Chala Istam 💖",
+        emoji: "🌟",
+        gif: "gif1.gif"
     }
-    // Add more reasons as needed!
 ];
 
 // State management
