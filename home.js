@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const birthdayDate = new Date('January 25, 2025 00:00:00').getTime();
 
     // CUSTOMIZE: Change this greeting message
-    const greetingText = "Hey [NAME]! You're one of the most amazing people I've ever known! 💖";
+    const greetingText = "Hey Ravalika! 💗 You are such a special person, and I hope your birthday brings you endless happiness, beautiful memories, and lots of reasons to smile, I hope you are my last option that makes me feel like my only family member ,Never cry never worry im always with you and i will till the end of my life if u trust me. You deserve all my love and joy in the world! 💖✨";
 
     // CUSTOMIZE: Change floating elements if desired
     const floatingElements = ['💖', '✨', '🌸', '💫', '💕'];
